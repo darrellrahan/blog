@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  background-color: #eee;
+}
+
+header a:hover {
+  text-decoration: none;
+}
+
+.ls {
+  letter-spacing: 3px;
+}
+
+.blog-footer {
+  padding: 1rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #eee;
+  border-top: 0.05rem solid #e5e5e5;
+}
+
+.blog-footer a {
+  color: inherit;
+}
+
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
